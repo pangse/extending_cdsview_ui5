@@ -1,4 +1,7 @@
 ## Application Details
+
+https://github.com/pangse/fiori-elements-opensap/tree/main/week3
+
 |               |
 | ------------- |
 |**Generation Date and Time**<br>Wed Mar 13 2024 08:18:46 GMT+0000 (Coordinated Universal Time)|
